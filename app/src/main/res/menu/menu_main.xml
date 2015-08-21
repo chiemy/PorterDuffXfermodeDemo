@@ -1,0 +1,96 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".MainActivity">
+    <item
+        android:id="@+id/clear"
+        android:title="CLEAR"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/src"
+        android:title="SRC"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/des"
+        android:title="DST"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/src_over"
+        android:title="SRC_OVER"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/dst_over"
+        android:title="DST_OVER"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/src_in"
+        android:title="SRC_IN"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/dst_in"
+        android:title="DST_IN"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/src_out"
+        android:title="SRC_OUT"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/dst_out"
+        android:title="DST_OUT"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/src_atop"
+        android:title="SRC_ATOP"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/dst_atop"
+        android:title="DST_ATOP"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/xor"
+        android:title="XOR"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/darken"
+        android:title="DARKEN"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/lighten"
+        android:title="LIGHTEN"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/multiply"
+        android:title="MULTIPLY"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/screen"
+        android:title="SCREEN"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/add"
+        android:title="ADD"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/overlay"
+        android:title="OVERLAY"
+        app:showAsAction="never" />
+
+
+</menu>
